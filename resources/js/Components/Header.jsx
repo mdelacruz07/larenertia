@@ -5,6 +5,7 @@ const navigation = [
     { name: 'About', href: '/about' },
     { name: 'Contact', href: '/contact' },
     { name: 'Prices', href: '/prices' },
+    { name: 'Crud', href: '/crud' },
 ];
 
 export default function Header() {
